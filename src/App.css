@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.center {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;  
+}
+
+.card-individual {
+  width: 200px;
+  height: 250px;
+  border: 5px solid #282c34;
+}
+img {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  border: 5px solid #cfd8dc;
+}
+
+body {
+  background-color: #ff5bce;
+}
